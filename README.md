@@ -1,4 +1,16 @@
-# vue-router
+# Vue Router
+
+In this small app I test Vue Router, the oficial router for Vue.js.
+> I testing the following features:
+> - Nested route / view mapping
+> - Modular, component-based router configuration
+> - Route params
+
+### Dev tools used:
+
+> - HTML, CSS, Bootsrap Material 4, API for images placeholder (https://placeholder.com)
+> - ES6, Vue.js, vue-router
+
 
 ## Project setup
 ```
