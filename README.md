@@ -6,6 +6,8 @@ In this small app I test Vue Router, the oficial router for Vue.js.
 > - Modular, component-based router configuration
 > - Route params
 
+**Demo:** https://jleon253.github.io/vue-router/
+
 ### Dev tools used:
 
 > - HTML, CSS, Bootsrap Material 4, API for images placeholder (https://placeholder.com)
